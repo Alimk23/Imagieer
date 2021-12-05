@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1638194137,
+	"version": 1638747208,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,32 +13,14 @@
 		"images/tiledbackground5.png",
 		"images/btn_pause-sheet0.png",
 		"images/outputonlinepngtools3-sheet0.png",
-		"images/img-sheet0.png",
-		"images/img-sheet1.png",
+		"images/data_gambar-sheet0.png",
+		"images/data_gambar-sheet1.png",
 		"images/spritefont.png",
 		"images/bawah-sheet0.png",
 		"images/benar-sheet0.png",
 		"images/benar-sheet1.png",
 		"images/bintang-sheet0.png",
 		"images/bgjudul-sheet0.png",
-		"images/menu-sheet0.png",
-		"media/bg.m4a",
-		"media/bg.ogg",
-		"media/benar.m4a",
-		"media/benar.ogg",
-		"media/klik.m4a",
-		"media/klik.ogg",
-		"media/salah.m4a",
-		"media/salah.ogg",
-		"media/hore.m4a",
-		"media/hore.ogg",
-		"media/kalah.m4a",
-		"media/kalah.ogg",
-		"icon-16.png",
-		"icon-32.png",
-		"icon-114.png",
-		"icon-128.png",
-		"icon-256.png",
-		"loading-logo.png"
+		"images/menu-sheet0.png"
 	]
 }
